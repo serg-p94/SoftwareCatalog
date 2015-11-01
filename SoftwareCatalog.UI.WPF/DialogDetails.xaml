@@ -1,0 +1,6 @@
+﻿<Window x:Class="SoftwareCatalog.UI.WPF.DialogDetails"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DialogDetails" Height="482.09" Width="594.03">
+    <ComboBox HorizontalAlignment="Left" Margin="179,55,0,0" VerticalAlignment="Top" Width="120"/>
+</Window>
